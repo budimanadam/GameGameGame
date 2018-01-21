@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MenuUtama.unity
+    guid: f542e32d72b61a844813e514e4fce951
+  - enabled: 1
+    path: Assets/_Scenes/Main.unity
+    guid: 54c33942369915148bc1e3ee9533f625
+  - enabled: 1
+    path: Assets/_Scenes/PacMan.unity
+    guid: e7520b2178f4dbc408fe863c380a6147
+  - enabled: 1
+    path: Assets/_Scenes/PacMan 1.unity
+    guid: a2b8a74c490114445832c418d5269ea4
+  - enabled: 1
+    path: Assets/_Scenes/PacMan 2.unity
+    guid: 7659277e37d50614d9ee8a88ba1f3962
+  - enabled: 1
+    path: Assets/_Scenes/PacManBerhasil.unity
+    guid: 6b2a735a43978b540b48f7b37e1c1e4a
+  - enabled: 1
+    path: Assets/_Scenes/Snek.unity
+    guid: fc6aba1b5d51a4b47aeaccb2a5a3b93d
